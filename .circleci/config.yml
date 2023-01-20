@@ -24,5 +24,4 @@ workflows:
   say-hello-workflow:
     jobs:
       - say-hello
-        - store_CaesarsCipherTests.java;
-    path: CaesarsCipherTests.java
+        
